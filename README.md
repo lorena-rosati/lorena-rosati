@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, my name is Lorena 👋
+Welcome to my Github profile! I'm a Computer Engineering student at the University of Waterloo and an aspiring software developer. 
 
 <!--
 **lorena-rosati/lorena-rosati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
