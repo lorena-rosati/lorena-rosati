@@ -1,7 +1,7 @@
 ### Hi, my name is Lorena 👋
 Welcome to my Github profile! I'm a Computer Engineering student at the University of Waterloo and an aspiring software developer. 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lorena-rosati&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lorena-rosati&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> -->
 
 <!--
 **lorena-rosati/lorena-rosati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
