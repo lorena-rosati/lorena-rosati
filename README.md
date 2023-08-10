@@ -1,5 +1,7 @@
 ### Hi, my name is Lorena 👋
-Welcome to my Github profile! I'm a Computer Engineering student at the University of Waterloo and an aspiring software developer. 
+Welcome to my Github profile! I'm a Computer Engineering student at the University of Waterloo with a strong interest in full-stack development, machine learning, and data. 
+
+
 
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lorena-rosati&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> -->
 
