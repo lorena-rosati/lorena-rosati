@@ -1,5 +1,5 @@
 ### Hi, my name is Lorena 👋
-Welcome to my Github profile! I'm a Computer Engineering student at the University of Waterloo with a strong interest in full-stack development, machine learning, and data. 
+Welcome to my Github profile! I'm a Computer Engineering student at the University of Waterloo with a strong interest in full-stack development and machine learning. 
 
 
 
